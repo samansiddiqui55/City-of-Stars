@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: "la1";
+  src: url(src/assets/Proxima Nova/proximanova_black.otf);
+}
+ @font-face {
+  font-family: "la2";
+  src: url(src/assets/Proxima Nova/proximanova_black.ttf);
+ }
+ @font-face {
+  font-family: "la3";
+  src: url(src/assets/Proxima Nova/proximanova_blackit.otf);
+ }
+ @font-face {
+  font-family: "la4";
+  src: url(src/assets/Proxima Nova/proximanova_bold.otf);
+ }
+@font-face {
+  font-family: "la5";
+  src: url(src/assets/Proxima Nova/proximanova_boldit.otf);
+}
+@font-face {
+  font-family: "la6";
+  src: url(src/assets/Proxima Nova/proximanova_extrabold.otf);
+}
+@font-face {
+  font-family: "la7";
+  src: url(src/assets/Proxima Nova/proximanova_light.otf);
+}
+
+@font-face {
+  font-family: "la8";
+  src: url(src/assets/chalk_hand_lettering_shaded/Chalk-hand-lettering-shaded_DEMO.otf);
+}
+
+
+ .page1{
+  position: relative;
+  perspective: 1500px;
+ }
